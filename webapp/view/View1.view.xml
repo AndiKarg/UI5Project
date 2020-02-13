@@ -1,0 +1,17 @@
+<mvc:View controllerName="pract_1.Practice_1.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<VBox>
+							<Text text="Meine erste Seite!"></Text>
+						<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image> 
+						</VBox>
+						
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

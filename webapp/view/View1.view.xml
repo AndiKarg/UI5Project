@@ -5,11 +5,12 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<VBox>
-							<Text text="Meine erste Seite!"></Text>
-							<Text text="Update bitte!"></Text>
-							<Text text="bitte!"></Text>
+							<Text class="txt" text="Meine erste Seite!"></Text>
+							<Text class="txt" text="Update bitte!"></Text>
+							<Text class="txt" text="bitte!"></Text>
 							<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image> 
 						</VBox>
+						<Button id="btn" press="onPress" text="click me"></Button>
 					</content>
 				</Page>
 			</pages>

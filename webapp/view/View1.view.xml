@@ -8,6 +8,7 @@
 							<Text text="Meine erste Seite!"></Text>
 							<Text text="Update bitte!"></Text>
 							<Text text="bitte!"></Text>
+							<Text text="Neue Branch"></Text>
 							<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image> 
 						</VBox>
 					</content>

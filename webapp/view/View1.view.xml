@@ -5,25 +5,13 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<VBox>
-<<<<<<< Upstream, based on origin/master
 							<Text text="Meine erste Seite!"></Text>
 							<Text text="Update bitte!"></Text>
 							<Text text="bitte!"></Text>
-<<<<<<< Upstream, based on origin/master
 							<Text text="Deare du oida schwinger"></Text>
+							<Text text="Habedere"></Text>
 							<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image>
-=======
-							<Text text="Neue Branch"></Text>
-=======
-							<Text class="txt" text="Meine erste Seite!"></Text>
-							<Text class="txt" text="Update bitte!"></Text>
-							<Text class="txt" text="bitte!"></Text>
-							<Text text="Test für neue Branch"></Text>
->>>>>>> f6e1995 Test für Branch
-							<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image> 
->>>>>>> 32a0873 Test für neue Branch
 						</VBox>
-						<Button id="btn" press="onPress" text="click me"></Button>
 					</content>
 				</Page>
 			</pages>

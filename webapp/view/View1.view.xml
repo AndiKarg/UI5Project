@@ -1,4 +1,5 @@
-<mvc:View controllerName="pract_1.Practice_1.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<mvc:View controllerName="pract_1.Practice_1.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m"
+	xmlns:html="http://www.w3.org/1999/xhtml">
 	<Shell id="shell">
 		<App id="app">
 			<pages>
@@ -11,6 +12,7 @@
 							<Text text="Habedere"></Text>
 							<Image src="assets/img/dome.jpg" width="100px" height="100px"></Image>
 						</VBox>
+						<html:div>Test</html:div>
 					</content>
 				</Page>
 			</pages>
